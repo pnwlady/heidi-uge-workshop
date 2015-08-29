@@ -1,0 +1,16 @@
+git log
+# shows history
+get init
+# initializes new empty git repo
+git add
+# stages changes
+git commit
+# takes a snapshot of current state of code
+git branch
+# creates new branch
+git checkout
+# switches branck
+git status
+# shows status of current git repo and makes suggestion
+git config
+# sets configuration values
